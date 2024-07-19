@@ -1,0 +1,1 @@
+execute if score @s jc_dimid = temp jc_dimid run summon minecraft:marker ~ ~ ~ {Tags:["jc_tp_temp_tag"]}

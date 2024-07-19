@@ -1,0 +1,17 @@
+scoreboard objectives add tptag trigger "传送实体码"
+scoreboard objectives add tpreq trigger "传送请求"
+scoreboard objectives add home trigger "家园"
+scoreboard objectives add back trigger "返回上个地点"
+scoreboard objectives add help trigger "帮助"
+scoreboard objectives add jc_tp_d deathCount "death"
+scoreboard objectives add jc_home_x dummy "x"
+scoreboard objectives add jc_home_y dummy "y"
+scoreboard objectives add jc_home_z dummy "z"
+scoreboard objectives add jc_home_d dummy "dim"
+scoreboard objectives add jc_back_x dummy "x"
+scoreboard objectives add jc_back_y dummy "y"
+scoreboard objectives add jc_back_z dummy "z"
+scoreboard objectives add jc_back_d dummy "dim"
+scoreboard objectives add jc_dimid dummy "id"
+execute unless score system jc_dimid matches 1.. run scoreboard players set system jc_dimid 1
+scoreboard objectives setdisplay list tptag
