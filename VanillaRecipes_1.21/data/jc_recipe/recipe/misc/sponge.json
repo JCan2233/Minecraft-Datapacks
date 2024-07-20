@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#W#",
+        "WSW",
+        "#W#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:prismarine_crystals"
+        },
+        "W": {
+            "tag": "minecraft:wool"
+        },
+        "S": {
+            "item": "minecraft:slime_ball"
+        }
+    },
+    "result": {
+        "id": "minecraft:sponge",
+        "count": 1
+    }
+}

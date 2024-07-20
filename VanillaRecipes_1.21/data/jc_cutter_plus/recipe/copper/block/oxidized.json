@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": [
+        {
+            "item": "minecraft:waxed_oxidized_copper"
+        },
+        {
+            "tag": "jc_cutter_plus_vanilla:copper_block"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:oxidized_copper"
+    }
+}

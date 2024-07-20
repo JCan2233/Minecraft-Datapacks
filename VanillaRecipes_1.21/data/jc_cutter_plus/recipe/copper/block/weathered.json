@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": [
+        {
+            "item": "minecraft:waxed_weathered_copper"
+        },
+        {
+            "tag": "jc_cutter_plus_vanilla:copper_block"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:weathered_copper"
+    }
+}

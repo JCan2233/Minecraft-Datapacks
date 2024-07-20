@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#A#"
+    ],
+    "key": {
+        "#": [
+            {
+                "item": "minecraft:turtle_scute"
+            },
+            {
+                "item": "minecraft:armadillo_scute"
+            }
+        ],
+        "A": {
+            "item": "minecraft:slime_ball"
+        }
+    },
+    "result": {
+        "id": "minecraft:shulker_shell",
+        "count": 1
+    }
+}

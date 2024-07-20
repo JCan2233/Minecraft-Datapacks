@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            {
+                "tag": "minecraft:dirt"
+            }
+        ],
+        [
+            {
+                "item": "minecraft:slime_ball"
+            }
+        ]
+    ],
+    "result": {
+        "id": "minecraft:clay",
+        "count": 1
+    }
+}

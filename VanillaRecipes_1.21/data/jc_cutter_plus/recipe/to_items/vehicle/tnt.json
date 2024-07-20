@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": [
+        {
+            "item": "minecraft:tnt_minecart"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:tnt"
+    }
+}

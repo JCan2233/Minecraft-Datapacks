@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#B#",
+        "BAB",
+        "#B#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:lapis_lazuli"
+        },
+        "A": {
+            "item": "minecraft:golden_apple"
+        },
+        "B": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "id": "minecraft:enchanted_golden_apple",
+        "count": 1
+    }
+}

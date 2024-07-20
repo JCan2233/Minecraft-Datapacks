@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": [
+        {
+            "item": "minecraft:waxed_weathered_copper_bulb"
+        },
+        {
+            "tag": "jc_cutter_plus_vanilla:copper_bulb"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:weathered_copper_bulb"
+    }
+}

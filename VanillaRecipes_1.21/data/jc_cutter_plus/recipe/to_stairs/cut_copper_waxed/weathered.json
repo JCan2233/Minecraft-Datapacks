@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": [
+        {
+            "tag": "jc_cutter_plus_vanilla:waxed_cut_copper_stairs"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:waxed_weathered_cut_copper_stairs"
+    }
+}

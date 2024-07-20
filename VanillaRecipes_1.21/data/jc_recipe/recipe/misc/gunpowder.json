@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:charcoal"
+        },
+        {
+            "item": "minecraft:coal"
+        },
+        {
+            "item": "minecraft:iron_nugget"
+        },
+        {
+            "item": "minecraft:flint"
+        }
+    ],
+    "result": {
+        "id": "minecraft:gunpowder",
+        "count": 4
+    }
+}

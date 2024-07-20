@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": [
+        {
+            "tag": "jc_cutter_plus_vanilla:waxed_chiseled_copper"
+        },
+        {
+            "tag": "jc_cutter_plus_vanilla:waxed_copper_bulb"
+        },
+        {
+            "tag": "jc_cutter_plus_vanilla:waxed_copper_door"
+        },
+        {
+            "tag": "jc_cutter_plus_vanilla:waxed_copper_grate"
+        },
+        {
+            "tag": "jc_cutter_plus_vanilla:waxed_copper_trapdoor"
+        },
+        {
+            "tag": "jc_cutter_plus_vanilla:waxed_cut_copper"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:honeycomb"
+    }
+}

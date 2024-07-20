@@ -1,0 +1,42 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": [
+        {
+            "tag": "minecraft:fence_gates"
+        },
+        {
+            "tag": "minecraft:signs"
+        },
+        {
+            "tag": "minecraft:hanging_signs"
+        },
+        {
+            "item": "minecraft:lectern"
+        },
+        {
+            "item": "minecraft:cartography_table"
+        },
+        {
+            "item": "minecraft:fletching_table"
+        },
+        {
+            "item": "minecraft:smithing_table"
+        },
+        {
+            "item": "minecraft:crafting_table"
+        },
+        {
+            "item": "minecraft:campfire"
+        },
+        {
+            "item": "minecraft:soul_campfire"
+        },
+        {
+            "tag": "minecraft:boats"
+        }
+    ],
+    "result": {
+        "count": 4,
+        "id": "minecraft:stick"
+    }
+}

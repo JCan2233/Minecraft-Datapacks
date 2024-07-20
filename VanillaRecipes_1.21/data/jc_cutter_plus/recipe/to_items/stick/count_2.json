@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": [
+        {
+            "item": "minecraft:ladder"
+        },
+        {
+            "item": "minecraft:loom"
+        },
+        {
+            "item": "minecraft:painting"
+        },
+        {
+            "item": "minecraft:item_frame"
+        },
+        {
+            "tag": "minecraft:wooden_pressure_plates"
+        },
+        {
+            "tag": "minecraft:wooden_trapdoors"
+        },
+        {
+            "tag": "minecraft:wooden_doors"
+        }
+    ],
+    "result": {
+        "count": 2,
+        "id": "minecraft:stick"
+    }
+}

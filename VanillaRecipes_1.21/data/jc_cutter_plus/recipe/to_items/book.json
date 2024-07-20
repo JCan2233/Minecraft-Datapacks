@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": [
+        {
+            "item": "minecraft:bookshelf"
+        },
+        {
+            "item": "minecraft:lectern"
+        }
+    ],
+    "result": {
+        "count": 3,
+        "id": "minecraft:book"
+    }
+}

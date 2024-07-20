@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " B#",
+        "CAB",
+        "CC "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:lead"
+        },
+        "A": {
+            "item": "minecraft:leather"
+        },
+        "B": {
+            "item": "minecraft:slime_ball"
+        },
+        "C": {
+            "item": "minecraft:paper"
+        }
+    },
+    "result": {
+        "id": "minecraft:name_tag",
+        "count": 1
+    }
+}

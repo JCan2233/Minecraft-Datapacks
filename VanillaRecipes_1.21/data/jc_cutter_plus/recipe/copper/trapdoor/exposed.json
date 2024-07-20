@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": [
+        {
+            "item": "minecraft:waxed_exposed_copper_trapdoor"
+        },
+        {
+            "tag": "jc_cutter_plus_vanilla:copper_trapdoor"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:exposed_copper_trapdoor"
+    }
+}

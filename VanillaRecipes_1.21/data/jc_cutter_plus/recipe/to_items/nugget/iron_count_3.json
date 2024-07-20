@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": [
+        {
+            "item": "minecraft:iron_bars"
+        },
+        {
+            "item": "minecraft:chain"
+        },
+        {
+            "item": "minecraft:lantern"
+        },
+        {
+            "item": "minecraft:soul_lantern"
+        }
+    ],
+    "result": {
+        "count": 3,
+        "id": "minecraft:iron_nugget"
+    }
+}

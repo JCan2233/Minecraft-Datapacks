@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": [
+        {
+            "tag": "jc_cutter_plus_vanilla:cut_copper"
+        },
+        {
+            "tag": "jc_cutter_plus_vanilla:waxed_cut_copper"
+        },
+        {
+            "tag": "jc_cutter_plus_vanilla:chiseled_copper"
+        },
+        {
+            "tag": "jc_cutter_plus_vanilla:waxed_chiseled_copper"
+        },
+        {
+            "tag": "jc_cutter_plus_vanilla:copper_grate"
+        },
+        {
+            "tag": "jc_cutter_plus_vanilla:waxed_copper_grate"
+        },
+        {
+            "tag": "jc_cutter_plus_vanilla:copper_door"
+        },
+        {
+            "tag": "jc_cutter_plus_vanilla:waxed_copper_door"
+        }
+    ],
+    "result": {
+        "count": 2,
+        "id": "minecraft:copper_ingot"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": [
+        {
+            "item": "minecraft:waxed_cut_copper"
+        },
+        {
+            "item": "minecraft:copper_grate"
+        },
+        {
+            "item": "minecraft:chiseled_copper"
+        },
+        {
+            "tag": "jc_cutter_plus_vanilla:cut_copper"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:cut_copper"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ABA",
+        "CCC",
+        "CDC"
+    ],
+    "key": {
+        "A": {
+            "tag": "minecraft:wooden_fences"
+        },
+        "B": {
+            "item": "minecraft:lead"
+        },
+        "C": {
+            "item": "minecraft:gold_ingot"
+        },
+        "D": {
+            "item": "minecraft:note_block"
+        }
+    },
+    "result": {
+        "id": "minecraft:bell",
+        "count": 1
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#A#",
+        "BCB",
+        " D "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_sword"
+        },
+        "A": {
+            "item": "minecraft:diamond_sword"
+        },
+        "B": {
+            "item": "minecraft:slime_ball"
+        },
+        "C": {
+            "item": "minecraft:heart_of_the_sea"
+        },
+        "D": {
+            "item": "minecraft:end_rod"
+        }
+    },
+    "result": {
+        "id": "minecraft:trident",
+        "count": 1
+    }
+}

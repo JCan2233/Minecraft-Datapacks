@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": [
+        {
+            "item": "minecraft:tuff_slab"
+        },
+        {
+            "item": "minecraft:polished_tuff_slab"
+        },
+        {
+            "item": "minecraft:tuff_brick_stairs"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:tuff_brick_slab"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#A#",
+        "BBB"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:leather"
+        },
+        "A": {
+            "item": "minecraft:slime_ball"
+        },
+        "B": {
+            "item": "minecraft:popped_chorus_fruit"
+        }
+    },
+    "result": {
+        "id": "minecraft:shulker_shell",
+        "count": 1
+    }
+}

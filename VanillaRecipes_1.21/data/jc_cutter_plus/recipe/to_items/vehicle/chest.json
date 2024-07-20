@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": [
+        {
+            "item": "minecraft:chest_minecart"
+        },
+        {
+            "tag": "minecraft:chest_boats"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:chest"
+    }
+}

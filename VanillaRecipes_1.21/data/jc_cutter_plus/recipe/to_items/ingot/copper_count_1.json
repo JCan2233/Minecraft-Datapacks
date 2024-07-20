@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": [
+        {
+            "tag": "jc_cutter_plus_vanilla:cut_copper_stairs"
+        },
+        {
+            "tag": "jc_cutter_plus_vanilla:cut_copper_slab"
+        },
+        {
+            "tag": "jc_cutter_plus_vanilla:waxed_cut_copper_stairs"
+        },
+        {
+            "tag": "jc_cutter_plus_vanilla:waxed_cut_copper_slab"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:copper_ingot"
+    }
+}

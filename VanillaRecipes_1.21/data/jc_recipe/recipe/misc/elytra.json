@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#A#",
+        "BCB",
+        "EDE"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:diamond"
+        },
+        "A": {
+            "item": "minecraft:end_crystal"
+        },
+        "B": {
+            "item": "minecraft:phantom_membrane"
+        },
+        "C": {
+            "tag": "minecraft:banners"
+        },
+        "D": {
+            "item": "minecraft:lead"
+        },
+        "E": {
+            "item": "minecraft:dragon_breath"
+        }
+    },
+    "result": {
+        "id": "minecraft:elytra",
+        "count": 1
+    }
+}
