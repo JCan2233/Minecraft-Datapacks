@@ -1,0 +1,2 @@
+execute if predicate jc_trim:seconds run execute as @a[predicate=jc_trim:trim/has_trim] run function jc_trim:seconds
+execute if predicate jc_trim:minutes run execute as @a[predicate=jc_trim:trim/has_trim] run function jc_trim:minutes

@@ -1,0 +1,36 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "equipment": {
+            "head": {
+                "predicates": {
+                    "trim": {
+                        "material": "minecraft:emerald"
+                    }
+                }
+            },
+            "chest": {
+                "predicates": {
+                    "trim": {
+                        "material": "minecraft:emerald"
+                    }
+                }
+            },
+            "legs": {
+                "predicates": {
+                    "trim": {
+                        "material": "minecraft:emerald"
+                    }
+                }
+            },
+            "feet": {
+                "predicates": {
+                    "trim": {
+                        "material": "minecraft:emerald"
+                    }
+                }
+            }
+        }
+    }
+}
