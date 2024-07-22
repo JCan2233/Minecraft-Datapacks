@@ -23,7 +23,7 @@ kill @a[scores={back=2}]
 scoreboard players set @a back 0
 
 scoreboard players enable @a help
-tellraw @a[scores={help=1..}] "========================================\n*JC的简易传送数据包功能列表\n*/trigger home 回家\n*/trigger home set 2 设置家\n*/trigger back 返回上一个地点\n*/trigger back set 2 自杀\n*/trigger tptag set <2~9999的整数> 设置自己的传送编码，设为0关闭该功能\n*/trigger tpreq set <2~9999的整数> 传送到对应编码的玩家身边\n*按Tab查看玩家列表，列表右侧的数字即为传送编码\n========================================"
+tellraw @a[scores={help=1..}] "========================================\n*JC的简易传送数据包功能列表\n*/trigger home 回家\n*/trigger home set 2 设置家\n*/trigger back 返回上一个地点\n*/trigger back set 2 自杀\n*/trigger tptag set <2~9999> 设置自己的传送编码，设为0关闭该功能\n*/trigger tpreq set <2~9999> 传送到对应编码的玩家身边\n*按Tab查看玩家列表，列表右侧的数字即为传送编码\n========================================"
 scoreboard players set @a help 0
 
 function jc_tp:tp_properties
