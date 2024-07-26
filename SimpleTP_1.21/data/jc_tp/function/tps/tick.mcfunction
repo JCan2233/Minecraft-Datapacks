@@ -1,4 +1,4 @@
-execute at @a positioned 1653500 0 6265200 run function jc_tp:tps/sd
+execute at @a positioned 1653504 0 6264576 run function jc_tp:tps/sd
 
 execute as @a[scores={jc_tp_d=1..}] at @s run function jc_tp:set_back
 scoreboard players set @a jc_tp_d 0
