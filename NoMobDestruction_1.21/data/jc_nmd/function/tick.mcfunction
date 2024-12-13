@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:creeper] run function jc_nmd:creeper
