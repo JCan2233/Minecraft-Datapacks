@@ -1,8 +1,5 @@
 {
     "condition": "minecraft:time_check",
-    "value": {
-        "type": "minecraft:constant",
-        "value": 0
-    },
+    "value": 0,
     "period": 20
 }
